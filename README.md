@@ -24,3 +24,8 @@ mockup
 
 ![screenshot]
 (<img width="510" alt="pass" src="https://user-images.githubusercontent.com/94582219/149617362-df07dc84-daea-4e9e-9cbc-e90edab1a84d.PNG">)
+
+
+URL for deployed app - https://kkaur202.github.io/password-generator/
+
+GitHUb URL -  https://github.com/kkaur202/password-generator
