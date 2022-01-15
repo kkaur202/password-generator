@@ -22,4 +22,5 @@ THEN the password is either displayed in an alert or written to the page
 
 mockup
 
-![screenshot](Pictures)
+![screenshot]
+(<img width="510" alt="pass" src="https://user-images.githubusercontent.com/94582219/149617362-df07dc84-daea-4e9e-9cbc-e90edab1a84d.PNG">)
